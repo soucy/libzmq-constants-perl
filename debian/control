@@ -1,0 +1,24 @@
+Source: libzmq-constants-perl
+Section: perl
+Priority: optional
+Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+Uploaders: Alessandro Ghedini <ghedo@debian.org>
+Build-Depends: debhelper (>= 8)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.4
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libzmq-constants-perl.git
+Vcs-Git: git://git.debian.org/pkg-perl/packages/libzmq-constants-perl.git
+Homepage: http://search.cpan.org/dist/ZMQ-Constants/
+
+Package: libzmq-constants-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: Perl module that provides libzmq contants
+ ØMQ is a library which extends the standard socket interfaces with features
+ traditionally provided by specialised messaging middleware products.
+ .
+ ØMQ sockets provide an abstraction of asynchronous message queues, multiple
+ messaging patterns, message filtering (subscriptions), seamless access to
+ multiple transport protocols and more.
+ .
+ ZMQ::Constants provides the constants exported by libzmq to Perl code.
