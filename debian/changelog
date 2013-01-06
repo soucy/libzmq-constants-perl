@@ -1,5 +1,9 @@
 libzmq-constants-perl (1.1-1) UNRELEASED; urgency=low
 
+  [ Alessandro Ghedini ]
   * Initial Release.
+
+  [ Salvatore Bonaccorso ]
+  * Change Vcs-Git to canonical URI (git://anonscm.debian.org)
 
  -- Alessandro Ghedini <ghedo@debian.org>  Fri, 14 Dec 2012 13:04:19 +0100
