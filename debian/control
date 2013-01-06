@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: perl
 Standards-Version: 3.9.4
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libzmq-constants-perl.git
-Vcs-Git: git://git.debian.org/pkg-perl/packages/libzmq-constants-perl.git
+Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libzmq-constants-perl.git
 Homepage: http://search.cpan.org/dist/ZMQ-Constants/
 
 Package: libzmq-constants-perl
