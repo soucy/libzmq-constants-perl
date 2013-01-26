@@ -5,5 +5,6 @@ libzmq-constants-perl (1.1-1) UNRELEASED; urgency=low
 
   [ Salvatore Bonaccorso ]
   * Change Vcs-Git to canonical URI (git://anonscm.debian.org)
+  * Change search.cpan.org based URIs to metacpan.org based URIs
 
  -- Alessandro Ghedini <ghedo@debian.org>  Fri, 14 Dec 2012 13:04:19 +0100
