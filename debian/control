@@ -13,7 +13,7 @@ Homepage: https://metacpan.org/release/ZMQ-Constants/
 Package: libzmq-constants-perl
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}
-Description: Perl module that provides libzmq contants
+Description: Perl module that provides libzmq constants
  ØMQ is a library which extends the standard socket interfaces with features
  traditionally provided by specialised messaging middleware products.
  .
