@@ -20,5 +20,8 @@ no_index:
     - t
     - xt
 resources:
+  bugtracker: https://github.com/lestrrat/p5-ZMQ/issues
+  homepage: https://github.com/lestrrat/p5-ZMQ
   license: http://dev.perl.org/licenses/
-version: 1.01
+  repository: git://github.com/lestrrat/p5-ZMQ.git
+version: 1.03
