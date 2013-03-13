@@ -1,6 +1,5 @@
 libzmq-constants-perl (1.03-1) UNRELEASED; urgency=low
 
-  [ Alessandro Ghedini ]
-  * Initial release.
+  * Initial release (Closes: #702957)
 
  -- Alessandro Ghedini <ghedo@debian.org>  Wed, 13 Mar 2013 12:17:57 +0100
