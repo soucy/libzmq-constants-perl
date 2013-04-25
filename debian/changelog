@@ -1,3 +1,9 @@
+libzmq-constants-perl (1.03-1-vyatta-1) unstable; urgency=low
+
+  * force Vyatta build
+
+ -- Stephen Hemminger <shemminger@vyatta.com>  Thu, 25 Apr 2013 10:28:59 -0700
+
 libzmq-constants-perl (1.03-1) unstable; urgency=low
 
   * Initial release (Closes: #702957)
