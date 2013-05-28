@@ -1,3 +1,9 @@
+libzmq-constants-perl (1.03-1-vyatta-5) unstable; urgency=low
+
+  * force build
+
+ -- Stephen Hemminger <stephen@networkplumber.org>  Mon, 27 May 2013 20:14:08 -0700
+
 libzmq-constants-perl (1.03-1-vyatta-4) unstable; urgency=low
 
   * force another build
